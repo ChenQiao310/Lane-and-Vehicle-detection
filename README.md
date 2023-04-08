@@ -14,3 +14,7 @@ roads with little or no lane markers. Our final lane detection model was more li
 compared to the baseline, with 30% parameter size at only 0.13% sacrificed accuracy. Our 
 final vehicle detection model provided better vehicle detection precisoin with reduced noises
 from other classes.
+
+Our output: 
+The images that the Lane and vehicles are correctly annotated.
+<img width="404" alt="Screenshot 2023-03-30 at 3 50 32 PM" src="https://user-images.githubusercontent.com/65835990/230698496-ae7a345f-4aef-4321-9644-58029c5c83dc.png">

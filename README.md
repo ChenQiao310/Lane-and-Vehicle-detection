@@ -15,6 +15,5 @@ compared to the baseline, with 30% parameter size at only 0.13% sacrificed accur
 final vehicle detection model provided better vehicle detection precisoin with reduced noises
 from other classes.
 
-Our output: 
-The images that the Lane and vehicles are correctly annotated.
-<img width="404" alt="Screenshot 2023-03-30 at 3 50 32 PM" src="https://user-images.githubusercontent.com/65835990/230698496-ae7a345f-4aef-4321-9644-58029c5c83dc.png">
+
+<img width="524" alt="Screenshot 2023-04-07 at 7 03 05 PM" src="https://user-images.githubusercontent.com/65835990/230698549-de15a4d9-2695-4a98-8196-75ae31cb732f.png">
